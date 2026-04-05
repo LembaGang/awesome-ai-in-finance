@@ -137,7 +137,7 @@ Price and Volume process with Technology Analysis Indices
 ## Data Sources
 
 #### Traditional Markets
-
+- [Headless Oracle](https://headlessoracle.com) - Cryptographically signed market status oracle for AI trading agents. Returns Ed25519-signed OPEN/CLOSED/HALTED receipts with 60-second TTL for 28 global exchanges. Includes an MCP server for Claude, Cursor, and Windsurf.
 - 🌟 [Quandl](https://www.quandl.com/tools/api) - Get millions of financial and economic datasets from hundreds of publishers via a single free API.
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
 - [Tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks.
